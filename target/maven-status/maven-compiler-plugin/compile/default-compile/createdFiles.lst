@@ -1,0 +1,12 @@
+local\AbstractEvent$1.class
+local\config\kafka\KafkaProcessor.class
+local\CustomerManagementController.class
+local\CustomerManagement.class
+local\MembershipRegistered.class
+local\AbstractEvent.class
+local\CustomerManagementRepository.class
+local\PolicyHandler.class
+local\OrderReceived.class
+local\PointSaved.class
+local\MembershipWithdrawed.class
+local\Application.class
